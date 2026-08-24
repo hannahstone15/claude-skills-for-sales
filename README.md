@@ -8,9 +8,9 @@ I'm an Account Executive at Databricks. These skills started as internal tools I
 
 ## What's here
 
-Skills are on the way. Each one follows the same format: a self-contained folder with a SKILL.md file describing what it does and when to use it, built on the Agent Skills spec (github.com/anthropics/skills).
+The first skill is live: an ICP fit and account intelligence brief generator. Give it your ICP once and a target company, and it researches the company, scores the fit, and writes a one-page brief on how your product fits them (github.com/anthropics/skills has the full Agent Skills spec).
 
-Planned first: an account research brief generator, followed by a signal-based account prioritization skill, with more to come after that.
+More skills are coming, starting with a signal-based account prioritization skill.
 
 ## How to use a skill
 
