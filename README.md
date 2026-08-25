@@ -8,13 +8,13 @@ I'm an Account Executive at Databricks. These skills started as internal tools I
 
 ## What's here
 
-The first skill is live: an ICP fit and account intelligence brief generator. Give it your ICP once and a target company, and it researches the company, scores the fit, and writes a one-page brief on how your product fits them (github.com/anthropics/skills has the full Agent Skills spec).
+Two skills are live. The first is an ICP fit and account intelligence brief generator: give it your ICP once and a target company, and it researches the company, scores the fit, and writes a one-page brief on how your product fits them. The second is a sales voice kit: it researches a prospect the way top sellers do, then drafts a first touch, a follow-up bump, or a compressed executive email, all written in your own voice instead of generic AI phrasing (github.com/anthropics/skills has the full Agent Skills spec).
 
 More skills are coming, starting with a signal-based account prioritization skill.
 
 ## How to use a skill
 
-Once a skill is published here, drop its folder into Claude (Claude.ai, Claude Code, or the API) and point Claude at it. Each skill's own README covers the exact setup.
+Download the SKILL.md for the skill you want from its folder above. Create a new folder on your computer named after the skill, for example sales-voice-kit, and put the file inside it. Zip that folder. In Claude, go to Customize, then Skills, then Add, and upload the zip, then enable the skill once it's uploaded. After that, just use it in a normal chat, give it a company name for the account brief skill, or ask it to draft or rewrite a message for the voice kit, and Claude invokes the skill automatically.
 
 ## Structure
 
