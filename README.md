@@ -8,7 +8,7 @@ I'm an Account Executive at Databricks. These skills started as internal tools I
 
 ## What's here
 
-Two skills are live. The first is an ICP fit and account intelligence brief generator: give it your ICP once and a target company, and it researches the company, scores the fit, and writes a one-page brief on how your product fits them. The second is a sales voice kit: it researches a prospect the way top sellers do, then drafts a first touch, a follow-up bump, or a compressed executive email, all written in your own voice instead of generic AI phrasing (github.com/anthropics/skills has the full Agent Skills spec).
+Three skills are live. The first is an ICP fit and account intelligence brief generator: give it your ICP once and a target company, and it researches the company, scores the fit, and writes a one-page brief on how your product fits them. The second is a sales voice kit: it researches a prospect the way top sellers do, then drafts a first touch, a follow-up bump, or a compressed executive email, all written in your own voice instead of generic AI phrasing. The third is a call prep brief: turns whatever you know about a prospect into a tight one-pager you can read in three minutes before a call, meeting, or QBR (github.com/anthropics/skills has the full Agent Skills spec).
 
 More skills are coming, starting with a signal-based account prioritization skill.
 
